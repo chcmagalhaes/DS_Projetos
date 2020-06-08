@@ -20,9 +20,9 @@ Entusiasta de novas tecnologias logísticas e de transporte.
 * [Medium](https://www.medium.com)
 
 
-Projetos Data Science
+Projetos Data Science:
 
-**Analise AirBnb Rio de Janeiro** (https://colab.research.google.com/drive/1laKnyrRxSZtZhAPGQ_8TTU2NSJqA83hx?usp=sharing)
+**Analise AirBnb Rio de Janeiro** (https://colab.research.google.com/drive/1eGXXEkFWdjxmeVvn6x7eSTM6Mtqm-bEk?usp=sharing)
 
 
 ---
