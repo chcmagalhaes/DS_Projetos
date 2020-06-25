@@ -22,8 +22,11 @@ Entusiasta de novas tecnologias logísticas e de transporte.
 
 Projetos Data Science:
 
-[**Analise AirBnb Rio de Janeiro** ](https://colab.research.google.com/drive/1eGXXEkFWdjxmeVvn6x7eSTM6Mtqm-bEk?usp=sharing)
-[**Analise Violência no Rio de Janeiro*** ](https://github.com/chcmagalhaes/DS_Projetos/blob/master/Analise_Dados_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+[**Analise AirBnb Rio de Janeiro**](https://colab.research.google.com/drive/1eGXXEkFWdjxmeVvn6x7eSTM6Mtqm-bEk?usp=sharing)
+
+[**Analise Violência no Rio de Janeiro***](https://github.com/chcmagalhaes/DS_Projetos/blob/master/Analise_Dados_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+
+
 
 ---
 
