@@ -26,7 +26,7 @@ Projetos Data Science:
 
 [**Analise Violência no Rio de Janeiro***](https://github.com/chcmagalhaes/DS_Projetos/blob/master/Analise_Dados_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 
-
+[**Analise Covid no Mundo e no Brasil***](https://github.com/chcmagalhaes/DS_Projetos/blob/master/DS03_Panorama_COVID_19.ipynb)
 
 ---
 
