@@ -30,6 +30,8 @@ Projetos Data Science:
 
 [**Analise em Fraudes de Cartões de Crédito***](https://github.com/chcmagalhaes/DS_Projetos/blob/master/Detec%C3%A7%C3%A3o_de_Fraudes_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 
+[***Analise Churn Prediction em uma Empresa de Telecom***](https://github.com/chcmagalhaes/DS_Projetos/blob/master/DSNP_Projeto_Churn_Pediction_para_uma_empresa_de_Telecom_.ipynb)
+
 
 ---
 
